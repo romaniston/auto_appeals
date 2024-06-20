@@ -7,7 +7,7 @@ A tool to automate filling out certain forms on a specific web service using Sel
 ____________________________________________________________
 Структура:
 - auto_filling.py 	- скрипт для автоматизации заполнения форм.
-- funcs.py 		      - модуль с функциями, классом и методами, которые использует auto_filling.py
+- funcs.py 		      - модуль с функциями, классом и методами, которые использует auto_autoappeals.py
 - links.py 		      - модуль со ссылками в словаре на веб страницу и веб элементы
 - done_delete.py 	  - скрипт для очищения статусов задач в DoneDelete.xlsx
 - Appeals.xlsx 	    - таблица для заготовок задач для последующего заведения в формы.
