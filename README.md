@@ -1,5 +1,4 @@
 # auto_appeals
-Инструмент автоматизации заполнения определенных форм на определенном веб-сервисе с помощью Selenium (обезличен).
 A tool to automate filling out certain forms on a specific web service using Selenium (depersonalized).
 
 Проект представляет собой инструмент автоматизации заполнения определенных форм на определенном веб-сервисе
