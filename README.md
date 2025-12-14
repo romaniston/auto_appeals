@@ -49,6 +49,6 @@
 <hr>
 Screenshots:
 <p>
-<p><img src="screenshots/1.png" width=500></img>
+<p><img src="screenshots/1.jpg" width=500></img>
 <p><img src="screenshots/2.png" width=1920></img>
 <p><img src="screenshots/3.png" width=1920></img>
